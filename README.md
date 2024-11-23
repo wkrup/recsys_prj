@@ -1,4 +1,4 @@
-# recsys_prj
+# Topics in Artificial Intelligence(Recommender Systems)
 
 2023년도 1학기 인공지능특강 (추천시스템) HW3 
 
